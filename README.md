@@ -9,6 +9,7 @@ The end-to-end solution is built entirely on the following AWS services:
 - Route 53
 - Bedrock
 - Lambda
+- Lex
 - AWS CLI
 - CodeCommit
 - Amplify
