@@ -1,5 +1,5 @@
 # The-CloserAI
-##This is my new project aiming to leverage the power of AI applied to education, specifically to law
+## This is my new project aiming to leverage the power of AI applied to education, specifically to law
 
 The CloserAI is a virtual legal assistant that allows law students to directly interact with their own uploaded documents or files. This functionality can be scaled to law firms and other industries for wider application. By design, The CloserAI ensures zero hallucination, meaning it only provides relevant and accurate legal insights. Additionally, files are highly secured, preventing any unauthorized internet exposure of private information. As a convenient tool, students can access The CloserAI from their mobile phones anytime, anywhere.
 
