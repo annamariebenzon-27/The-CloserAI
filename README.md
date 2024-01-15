@@ -23,4 +23,6 @@ The end-to-end solution is built entirely on the following AWS services:
 
 I use GitHub for documentation, but I directly run my code in CodeCommit and install and configure dependencies using the AWS CLI.
 
+I do my own project management [here](https://github.com/orgs/Stock-Knowledge-Engineering/projects/1/views/1).
+
 **Please note that the solution is currently under development.**
